@@ -1,0 +1,6 @@
+-- DONT KNOW MUCH ABOUT SCRIPTING JUST THE BASICS, TELEY
+
+-- Every Second You Get Faster
+if game.PlaceId == 13355910112 then
+
+end
