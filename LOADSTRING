@@ -2,5 +2,5 @@
 
 -- Every Second You Get Faster
 if game.PlaceId == 13355910112 then
-
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TELEY999/KEIMUSCRIPTS/NEWHUB/EVERYSECONDYOUGETFASTER"))()
 end
